@@ -12,13 +12,3 @@ Created detailed **2D floor plans, elevations, and sections** in **AutoCAD**, op
 - **Software:** AutoCAD (DWG), optional exports (PDF, DXF)
 
 ---
-
-## 🔧 Key Features
-- Bye-law-compliant **setbacks**, **stair dimensions**, **parking**, **ventilation**, **sanitation**, and **building height**.
-- Optimized **space planning** (living, bedrooms, kitchen, toilets) with efficient **circulation**.
-- **Layered CAD standards** for clean plotting (A1/A3 layouts), CTB/STB friendly.
-- **Title blocks** with revision history and drawing index.
-
----
-
-## 📁 Repository Structure
